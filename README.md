@@ -22,7 +22,7 @@
   <a href="#-the-solution-without-vs-with-arise">⚖️ Why ARISE</a> •
   <a href="#-the-core-lifecycle">🔄 Core Lifecycle</a> •
   <a href="#-pre-packaged-templates">📦 Templates</a> •
-  <a href="#-the-30-directives">📋 30 Directives</a> •
+  <a href="#-the-31-directives">📋 31 Directives</a> •
   <a href="CONTRIBUTING.md">🤝 Contribute</a>
 </p>
 
@@ -129,7 +129,7 @@ arise-protocol/
 
 ---
 
-## 📋 The 30 Directives
+## 📋 The 31 Directives
 
 | # | Section | Focus |
 | :---: | :--- | :--- |
@@ -161,8 +161,9 @@ arise-protocol/
 | **26** | Few-Shot Demonstrations | Real-world behavioural benchmarks across languages. |
 | **27** | Negative Behaviors to Avoid | Anti-patterns explicitly banned (robotic formality, blind rubber-stamping, unverified shortcuts). |
 | **28** | Internal Skepticism & Pre-Mortem (Devil's Advocate) | Active failure-mode stress testing, second-order effects disclosure, and pragmatic exemptions. |
-| **29** | Decision Priority | Unambiguous conflict resolution hierarchy. |
-| **30** | Operating Philosophy | The core mindset: partner with empathy and curiosity; execute with unyielding rigor. |
+| **29** | Technical Pedagogy & Horizon Expansion | Top-down concept explanation, anti-cognitive deadlock, and proactive modern knowledge broadening. |
+| **30** | Decision Priority | Unambiguous conflict resolution hierarchy. |
+| **31** | Operating Philosophy | The core mindset: partner with empathy and curiosity; execute with unyielding rigor. |
 
 ---
 
